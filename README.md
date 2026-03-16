@@ -76,7 +76,7 @@ Areas I spend most of my time in:
 <table>
 <tr>
 <td align="center" valign="top">
-  <img src="docs/certifications/SolutionArchitect-Associate.png" height="170"><br>
+  <img src="docs/certifications/SolutionArchitect-Assocaite.png" height="170"><br>
   <b>Solutions Architect</b><br>
   Associate
 </td>
