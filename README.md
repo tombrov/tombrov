@@ -135,7 +135,7 @@ Areas I spend most of my time in:
 
 ---
 
-# 🌍 Communities & Programs
+# 🌍 Communities
 
 <div align="center">
 
@@ -143,22 +143,22 @@ Areas I spend most of my time in:
 
 <tr>
 
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="100"><br>
-<b>AWS Community Builder</b><br>
-AI Engineering
+<td align="center" valign="top" width="260" style="padding:20px 10px; line-height:1.4;">
+  <a href="https://www.linkedin.com/company/aws-user-group-israel/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="95" style="display:block; margin:auto;">
+  </a>
+  <br>
+  <b>AWS User Group</b><br>
+  Israel
 </td>
 
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="100"><br>
-<b>AWS User Group</b><br>
-Israel
-</td>
-
-<td align="center">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"><br>
-<b>GitHub User Group</b><br>
-Israel
+<td align="center" valign="top" width="260" style="padding:20px 10px; line-height:1.4;">
+  <a href="https://www.linkedin.com/company/github-user-group-il/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="95" style="display:block; margin:auto;">
+  </a>
+  <br>
+  <b>GitHub User Group</b><br>
+  Israel
 </td>
 
 </tr>
