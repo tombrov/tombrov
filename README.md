@@ -172,7 +172,7 @@ Areas I spend most of my time in:
 
 ---
 
-# 🎓 Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -181,31 +181,31 @@ Areas I spend most of my time in:
 <tr>
 
 <td align="center">
-<img src="docs/certifications/SolutionArchitect-Assocaite.png" width="120"><br>
+<img src="docs/certifications/SolutionArchitect-Associate.png" width="140"><br>
 <b>Solutions Architect</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="docs/certifications/Developer.png" width="120"><br>
+<img src="docs/certifications/Developer.png" width="140"><br>
 <b>Developer</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="docs/certifications/CloudOps.png" width="120"><br>
+<img src="docs/certifications/CloudOps.png" width="140"><br>
 <b>CloudOps Engineer</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="docs/certifications/DataEngineer.png" width="120"><br>
+<img src="docs/certifications/DataEngineer.png" width="140"><br>
 <b>Data Engineer</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="docs/certifications/ML-Associate.png" width="120"><br>
+<img src="docs/certifications/ML-Associate.png" width="140"><br>
 <b>Machine Learning Engineer</b><br>
 Associate
 </td>
@@ -214,23 +214,27 @@ Associate
 
 <tr>
 
-<td colspan="5" align="center">
+<td></td>
 
-<img src="docs/certifications/SolutionArchitect-Pro.png" width="120">
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="docs/certifications/Devops-pro.png" width="120">
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="docs/certifications/ML-Speciality.png" width="120">
-
-<br><br>
-
-<b>Solutions Architect – Professional</b> &nbsp;&nbsp;&nbsp;&nbsp;
-<b>DevOps Engineer – Professional</b> &nbsp;&nbsp;&nbsp;&nbsp;
-<b>Machine Learning – Specialty</b>
-
+<td align="center">
+<img src="docs/certifications/SolutionArchitect-Pro.png" width="140"><br>
+<b>Solutions Architect</b><br>
+Professional
 </td>
+
+<td align="center">
+<img src="docs/certifications/Devops-pro.png" width="140"><br>
+<b>DevOps Engineer</b><br>
+Professional
+</td>
+
+<td align="center">
+<img src="docs/certifications/ML-Speciality.png" width="140"><br>
+<b>Machine Learning</b><br>
+Specialty
+</td>
+
+<td></td>
 
 </tr>
 
