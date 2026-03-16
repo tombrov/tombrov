@@ -4,13 +4,13 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tbrovy/">
+  <a href="https://www.linkedin.com/in/tbrovy/" style="text-decoration:none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://medium.com/@tbrovy">
+  <a href="https://medium.com/@tbrovy" style="text-decoration:none;">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://github.com/TomBrov">
+  <a href="https://github.com/TomBrov" style="text-decoration:none;">
     <img alt="Followers" src="https://img.shields.io/github/followers/TomBrov?style=for-the-badge&color=FF9900&label=Followers">
   </a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=TomBrov&style=for-the-badge&color=232F3E">
