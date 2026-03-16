@@ -67,7 +67,6 @@ Areas I spend most of my time in:
 ---
 
 # 🎓 Certifications
-## 🎓 Certifications
 
 <div align="center">
   <table>
@@ -100,12 +99,14 @@ Areas I spend most of my time in:
       </td>
 
   <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto; overflow:hidden;">
-          <img src="docs/certifications/DataEngineer.png"
-               alt="AWS Data Engineer Associate"
-               style="height:194px; width:auto; display:block;">
-        </div>
-      </td>
+  <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
+    <img src="docs/certifications/DataEngineer.png"
+         alt="AWS Data Engineer Associate"
+         width="180"
+         height="180"
+         style="transform: scale(1.12);">
+  </div>
+</td>
 
   <td align="center" width="220">
         <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
