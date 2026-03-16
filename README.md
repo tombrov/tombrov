@@ -36,9 +36,9 @@ Areas I spend most of my time in:
 
 # 🛠 Tech Stack
 
-### Languages
-
 <p align="center">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -46,127 +46,24 @@ Areas I spend most of my time in:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-</p>
-
----
-
-### Infrastructure as Code
-
-<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform"/>
 <img src="https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge"/>
 
-</p>
-
----
-
-### Containers & Platform Engineering
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge"/>
 
-</p>
-
----
-
-### CI/CD & Automation
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/AWS%20CodeBuild-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-39D353?style=for-the-badge&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-### AI & Data Systems
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-# ☁️ AWS Services
-
-### Compute
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge"/>
-
-</p>
-
-### Storage
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EFS-FF9900?style=for-the-badge"/>
-
-</p>
-
-### Databases
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/RDS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Aurora-FF9900?style=for-the-badge"/>
-
-</p>
-
-### Networking
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge"/>
-
-</p>
-
-### Messaging & Event Systems
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge"/>
-
-</p>
-
-### Security & Access
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KMS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Secrets%20Manager-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SSM-FF9900?style=for-the-badge"/>
 
 </p>
 
