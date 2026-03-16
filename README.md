@@ -60,9 +60,6 @@ Areas I spend most of my time in:
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-39D353?style=for-the-badge&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge"/>
 
 </p>
