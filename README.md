@@ -74,61 +74,61 @@ Areas I spend most of my time in:
 <div align="center">
 
 <table>
-<tr>
-<td align="center" valign="top">
-  <img src="docs/certifications/SolutionArchitect-Assocaite.png" height="170"><br>
-  <b>Solutions Architect</b><br>
-  Associate
-</td>
+  <tr>
+    <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/SolutionArchitect-Associate.png" alt="AWS Solutions Architect Associate" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>Solutions Architect</b><br>
+      Associate
+    </td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/Developer.png" height="170"><br>
-  <b>Developer</b><br>
-  Associate
-</td>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/Developer.png" alt="AWS Developer Associate" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>Developer</b><br>
+      Associate
+    </td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/CloudOps.png" height="170"><br>
-  <b>CloudOps Engineer</b><br>
-  Associate
-</td>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/CloudOps.png" alt="AWS CloudOps Engineer Associate" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>CloudOps Engineer</b><br>
+      Associate
+    </td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/DataEngineer.png" height="170"><br>
-  <b>Data Engineer</b><br>
-  Associate
-</td>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/DataEngineer.png" alt="AWS Data Engineer Associate" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>Data Engineer</b><br>
+      Associate
+    </td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/ML-Associate.png" height="170"><br>
-  <b>Machine Learning Engineer</b><br>
-  Associate
-</td>
-</tr>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/ML-Associate.png" alt="AWS Machine Learning Engineer Associate" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>Machine Learning Engineer</b><br>
+      Associate
+    </td>
+  </tr>
 
-<tr>
-<td></td>
+  <tr>
+    <td width="220" style="padding: 18px 10px 14px 10px;">&nbsp;</td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/SolutionArchitect-Pro.png" height="170"><br>
-  <b>Solutions Architect</b><br>
-  Professional
-</td>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/SolutionArchitect-Pro.png" alt="AWS Solutions Architect Professional" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>Solutions Architect</b><br>
+      Professional
+    </td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/Devops-pro.png" height="170"><br>
-  <b>DevOps Engineer</b><br>
-  Professional
-</td>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/Devops-pro.png" alt="AWS DevOps Engineer Professional" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>DevOps Engineer</b><br>
+      Professional
+    </td>
 
-<td align="center" valign="top">
-  <img src="docs/certifications/ML-Speciality.png" height="170"><br>
-  <b>Machine Learning</b><br>
-  Specialty
-</td>
+  <td align="center" valign="top" width="220" style="padding: 18px 10px 14px 10px; line-height: 1.35;">
+      <img src="docs/certifications/ML-Speciality.png" alt="AWS Machine Learning Specialty" height="170" style="display:block; margin: 0 auto; max-width: 170px;"><br>
+      <b>Machine Learning</b><br>
+      Specialty
+    </td>
 
-<td></td>
-</tr>
+  <td width="220" style="padding: 18px 10px 14px 10px;">&nbsp;</td>
+  </tr>
 </table>
 
 </div>
