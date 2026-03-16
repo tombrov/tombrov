@@ -102,8 +102,8 @@ Areas I spend most of my time in:
   <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
     <img src="docs/certifications/DataEngineer.png"
          alt="AWS Data Engineer Associate"
-         width="180"
-         height="180"
+         width="194"
+         height="194"
          style="transform: scale(1.12);">
   </div>
 </td>
