@@ -106,8 +106,7 @@ Areas I spend most of my time in:
     <img src="docs/certifications/DataEngineer.png"
          alt="AWS Data Engineer Associate"
          width="194"
-         height="194"
-         style="transform: scale(1.12);">
+         height="194">
   </div>
 </td>
 
