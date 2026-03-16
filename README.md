@@ -174,54 +174,55 @@ Areas I spend most of my time in:
 
 # 🎓 Certifications
 
-## 🎓 Certifications
-
 <div align="center">
 
 <table>
 
 <tr>
+
 <td align="center">
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.1cbe7a7a9d1b70229bbe219cf1976610a1f2b0b1.png" width="120"><br>
+<img src="docs/certifications/SolutionArchitect-Assocaite.png" width="120"><br>
 <b>Solutions Architect</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.13cdb73f45e15b8ff103b57f58139979f05de797.png" width="120"><br>
+<img src="docs/certifications/Developer.png" width="120"><br>
 <b>Developer</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-CloudOps-Engineer-Associate_badge.c24bdb6d0e6f2fa14de3cd59cab949015135c8db.png" width="120"><br>
+<img src="docs/certifications/CloudOps.png" width="120"><br>
 <b>CloudOps Engineer</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Data-Engineer-Associate_badge.0f6c76d5c7c87f5036ff2c89eacdd5b43b46777a.png" width="120"><br>
+<img src="docs/certifications/DataEngineer.png" width="120"><br>
 <b>Data Engineer</b><br>
 Associate
 </td>
 
 <td align="center">
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Engineer-Associate_badge.9a7e95135406c574ea506492adefafbd6b69e525.png" width="120"><br>
+<img src="docs/certifications/ML-Associate.png" width="120"><br>
 <b>Machine Learning Engineer</b><br>
 Associate
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="5" align="center">
 
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.png" width="120">
+<img src="docs/certifications/SolutionArchitect-Pro.png" width="120">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-DevOps-Engineer-Professional_badge.7492b01f9b31c7648206dfa81857232ece2b2047.png" width="120">
+<img src="docs/certifications/Devops-pro.png" width="120">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.4cc9d7d02e2ef749acd972d4b8ca0d24dd47cebb.png" width="120">
+<img src="docs/certifications/ML-Speciality.png" width="120">
 
 <br><br>
 
@@ -230,6 +231,7 @@ Associate
 <b>Machine Learning – Specialty</b>
 
 </td>
+
 </tr>
 
 </table>
