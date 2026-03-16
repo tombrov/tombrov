@@ -154,6 +154,7 @@ Areas I spend most of my time in:
   </tr>
   </table>
 </div>
+
 ---
 
 # 🌍 Communities
