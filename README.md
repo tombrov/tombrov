@@ -181,7 +181,7 @@ Areas I spend most of my time in:
 <tr>
 
 <td align="center">
-<img src="docs/certifications/SolutionArchitect-Associate.png" width="140"><br>
+<img src="docs/certifications/SolutionArchitect-Assocaite.png" width="140"><br>
 <b>Solutions Architect</b><br>
 Associate
 </td>
