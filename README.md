@@ -10,6 +10,9 @@
   <a href="https://github.com/TomBrov">
     <img alt="Followers" src="https://img.shields.io/github/followers/TomBrov?style=for-the-badge&color=FF9900&label=Followers">
   </a>
+  <a href="https://medium.com/@tbrovy">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=TomBrov&style=for-the-badge&color=232F3E">
 </p>
 
