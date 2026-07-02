@@ -150,6 +150,15 @@ Areas I spend most of my time in:
         </div>
       </td>
 
+  <td align="center" width="220">
+        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
+          <img src="docs/certifications/Security-Specialty.png"
+               alt="AWS Security Specialty"
+               width="180"
+               height="180">
+        </div>
+      </td>
+
   <td></td>
   </tr>
   </table>
