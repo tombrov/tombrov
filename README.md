@@ -129,19 +129,6 @@ Areas I spend most of my time in:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api?username=TomBrov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-&nbsp;
-<img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBrov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF9900,100:232F3E&fontColor=ffffff" />
