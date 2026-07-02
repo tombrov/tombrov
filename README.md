@@ -121,45 +121,30 @@ Areas I spend most of my time in:
     </tr>
 
   <tr>
-      <td></td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/SolutionArchitect-Pro.png"
-               alt="AWS Solutions Architect Professional"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/Devops-pro.png"
-               alt="AWS DevOps Engineer Professional"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/ML-Speciality.png"
-               alt="AWS Machine Learning Specialty"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/Security-Specialty.png"
-               alt="AWS Security Specialty"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td></td>
+  <td colspan="5" align="center">
+    <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
+      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
+        <img src="docs/certifications/SolutionArchitect-Pro.png"
+             alt="AWS Solutions Architect Professional"
+             width="180" height="180">
+      </div>
+      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
+        <img src="docs/certifications/Devops-pro.png"
+             alt="AWS DevOps Engineer Professional"
+             width="180" height="180">
+      </div>
+      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
+        <img src="docs/certifications/ML-Speciality.png"
+             alt="AWS Machine Learning Specialty"
+             width="180" height="180">
+      </div>
+      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
+        <img src="docs/certifications/Security-Specialty.png"
+             alt="AWS Security Specialty"
+             width="180" height="180">
+      </div>
+    </div>
+  </td>
   </tr>
   </table>
 </div>
@@ -205,7 +190,10 @@ Areas I spend most of my time in:
 <div align="center">
 
 <img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBrov&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=TomBrov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+&nbsp;
+<img height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBrov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
