@@ -72,81 +72,17 @@ Areas I spend most of my time in:
 # 🎓 Certifications
 
 <div align="center">
-  <table>
-  <tr>
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/SolutionArchitect-Associate.png"
-               alt="AWS Solutions Architect Associate"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/Developer.png"
-               alt="AWS Developer Associate"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/CloudOps.png"
-               alt="AWS CloudOps Engineer Associate"
-               width="180"
-               height="180">
-        </div>
-      </td>
-
-  <td align="center" width="220">
-  <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-    <img src="docs/certifications/DataEngineer.png"
-         alt="AWS Data Engineer Associate"
-         width="194"
-         height="194">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;">
+    <img src="docs/certifications/SolutionArchitect-Associate.png" alt="AWS Solutions Architect Associate" width="180" height="180">
+    <img src="docs/certifications/Developer.png" alt="AWS Developer Associate" width="180" height="180">
+    <img src="docs/certifications/CloudOps.png" alt="AWS CloudOps Engineer Associate" width="180" height="180">
+    <img src="docs/certifications/DataEngineer.png" alt="AWS Data Engineer Associate" width="180" height="180">
+    <img src="docs/certifications/ML-Associate.png" alt="AWS Machine Learning Engineer Associate" width="180" height="180">
+    <img src="docs/certifications/SolutionArchitect-Pro.png" alt="AWS Solutions Architect Professional" width="180" height="180">
+    <img src="docs/certifications/Devops-pro.png" alt="AWS DevOps Engineer Professional" width="180" height="180">
+    <img src="docs/certifications/ML-Speciality.png" alt="AWS Machine Learning Specialty" width="180" height="180">
+    <img src="docs/certifications/Security-Specialty.png" alt="AWS Security Specialty" width="180" height="180">
   </div>
-</td>
-
-  <td align="center" width="220">
-        <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;margin:0 auto;">
-          <img src="docs/certifications/ML-Associate.png"
-               alt="AWS Machine Learning Engineer Associate"
-               width="180"
-               height="180">
-        </div>
-      </td>
-    </tr>
-
-  <tr>
-  <td colspan="5" align="center">
-    <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
-      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
-        <img src="docs/certifications/SolutionArchitect-Pro.png"
-             alt="AWS Solutions Architect Professional"
-             width="180" height="180">
-      </div>
-      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
-        <img src="docs/certifications/Devops-pro.png"
-             alt="AWS DevOps Engineer Professional"
-             width="180" height="180">
-      </div>
-      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
-        <img src="docs/certifications/ML-Speciality.png"
-             alt="AWS Machine Learning Specialty"
-             width="180" height="180">
-      </div>
-      <div style="width:180px;height:180px;display:flex;align-items:center;justify-content:center;">
-        <img src="docs/certifications/Security-Specialty.png"
-             alt="AWS Security Specialty"
-             width="180" height="180">
-      </div>
-    </div>
-  </td>
-  </tr>
-  </table>
 </div>
 
 ---
