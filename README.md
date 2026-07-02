@@ -73,20 +73,14 @@ Areas I spend most of my time in:
 
 <div align="center">
 
-**Associate**
-
 <img src="docs/certifications/SolutionArchitect-Associate.png" alt="AWS Solutions Architect Associate" width="160" height="160">
 <img src="docs/certifications/Developer.png" alt="AWS Developer Associate" width="160" height="160">
 <img src="docs/certifications/CloudOps.png" alt="AWS CloudOps Engineer Associate" width="160" height="160">
 <img src="docs/certifications/DataEngineer.png" alt="AWS Data Engineer Associate" width="160" height="160">
 <img src="docs/certifications/ML-Associate.png" alt="AWS Machine Learning Engineer Associate" width="160" height="160">
 
-**Professional**
-
 <img src="docs/certifications/SolutionArchitect-Pro.png" alt="AWS Solutions Architect Professional" width="160" height="160">
 <img src="docs/certifications/Devops-pro.png" alt="AWS DevOps Engineer Professional" width="160" height="160">
-
-**Specialty**
 
 <img src="docs/certifications/ML-Speciality.png" alt="AWS Machine Learning Specialty" width="160" height="160">
 <img src="docs/certifications/Security-Specialty.png" alt="AWS Security Specialty" width="160" height="160">
