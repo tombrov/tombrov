@@ -71,23 +71,34 @@ Areas I spend most of my time in:
 
 # 🎓 Certifications
 
+<h2 align="center">AWS</h2>
+
 <div align="center">
 
-<img src="docs/certifications/SolutionArchitect-Associate.png" alt="AWS Solutions Architect Associate" width="160" height="160">
-<img src="docs/certifications/Developer.png" alt="AWS Developer Associate" width="160" height="160">
-<img src="docs/certifications/CloudOps.png" alt="AWS CloudOps Engineer Associate" width="160" height="160">
-<img src="docs/certifications/DataEngineer.png" alt="AWS Data Engineer Associate" width="160" height="160">
-<img src="docs/certifications/ML-Associate.png" alt="AWS Machine Learning Engineer Associate" width="160" height="160">
+<img src="docs/certifications/aws/SolutionArchitect-Associate.png" alt="AWS Solutions Architect Associate" width="160" height="160">
+<img src="docs/certifications/aws/Developer.png" alt="AWS Developer Associate" width="160" height="160">
+<img src="docs/certifications/aws/CloudOps.png" alt="AWS CloudOps Engineer Associate" width="160" height="160">
+<img src="docs/certifications/aws/DataEngineer.png" alt="AWS Data Engineer Associate" width="160" height="160">
+<img src="docs/certifications/aws/ML-Associate.png" alt="AWS Machine Learning Engineer Associate" width="160" height="160">
 
 <br>
 
-<img src="docs/certifications/SolutionArchitect-Pro.png" alt="AWS Solutions Architect Professional" width="160" height="160">
-<img src="docs/certifications/Devops-pro.png" alt="AWS DevOps Engineer Professional" width="160" height="160">
+<img src="docs/certifications/aws/SolutionArchitect-Pro.png" alt="AWS Solutions Architect Professional" width="160" height="160">
+<img src="docs/certifications/aws/Devops-pro.png" alt="AWS DevOps Engineer Professional" width="160" height="160">
+<img src="docs/certifications/aws/GenAI-Pro.png" alt="AWS Generative AI Developer Professional" width="160" height="160">
 
 <br>
 
-<img src="docs/certifications/ML-Speciality.png" alt="AWS Machine Learning Specialty" width="160" height="160">
-<img src="docs/certifications/Security-Specialty.png" alt="AWS Security Specialty" width="160" height="160">
+<img src="docs/certifications/aws/ML-Speciality.png" alt="AWS Machine Learning Specialty" width="160" height="160">
+<img src="docs/certifications/aws/Security-Specialty.png" alt="AWS Security Specialty" width="160" height="160">
+
+</div>
+
+<h2 align="center">Claude</h2>
+
+<div align="center">
+
+<img src="docs/certifications/claude/Claude-Developer-Foundations.png" alt="Claude Certified Developer - Foundations" width="160" height="160">
 
 </div>
 
